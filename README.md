@@ -5,5 +5,5 @@ I create a snake game in: Java, HTML/CSS/JavaScript, C++, Python, Kotlin
 * Java: YES
 * HTML/CSS/JavaScript: YES
 * C++: I dont know
-* Python: SOON
+* Python: I dont know
 * Kotlin: SOON
